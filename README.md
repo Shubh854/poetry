@@ -1,2 +1,2 @@
 # poetry
-now we are work on poetry
+now we are work on poetry.
